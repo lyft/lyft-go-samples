@@ -27,7 +27,7 @@ brew install mongodb
 To start a MongoDB instance, navigate to the `/loyalty-program` directory and run the following command:
 
 ```console
-mongod --dbpath /db
+mongod --dbpath ./db
 ```
 
 ## Usage
